@@ -1,0 +1,44 @@
+HTTP/2 307 
+age: 0
+cache-control: private, no-cache, no-store, max-age=0, must-revalidate
+content-security-policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://us.i.posthog.com https://us-assets.i.posthog.com https://js.stripe.com https://*.js.stripe.com https://checkout.stripe.com https://maps.googleapis.com https://cdn.jsdelivr.net https://app.cal.com https://static.ads-twitter.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdn.jsdelivr.net; img-src 'self' blob: data: https:; font-src 'self' data: https://fonts.gstatic.com; media-src 'self' blob: https://*.supabase.co; connect-src 'self' https://*.supabase.co wss://*.supabase.co https://*.posthog.com wss://*.posthog.com https://api.stripe.com https://checkout.stripe.com https://js.stripe.com https://*.js.stripe.com https://link.com https://*.link.com https://maps.googleapis.com https://photon.komoot.io https://app.cal.com https://analytics.twitter.com; frame-src 'self' https://*.unipile.com https://checkout.stripe.com https://js.stripe.com https://*.js.stripe.com https://hooks.stripe.com https://link.com https://*.link.com https://app.cal.com; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self' https://checkout.stripe.com https://billing.stripe.com https://invoice.stripe.com; frame-ancestors 'self'; upgrade-insecure-requests
+content-type: text/html; charset=utf-8
+date: Tue, 17 Nov 2026 13:08:37 GMT
+link: </_next/static/immutable/media/797e433ab948586e-s.p.1v5bejj26fx9h.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/immutable/media/caa3a2e1cccd8315-s.p.0zr6hhvz-h9nw.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/immutable/chunks/1bbqs9fijoipz.css>; rel=preload; as="style", </_next/static/immutable/chunks/1cpppuyo1sss2.css>; rel=preload; as="style"
+location: /onboarding
+permissions-policy: camera=(), microphone=(), geolocation=(), payment=(self "https://checkout.stripe.com" "https://js.stripe.com"), usb=(), browsing-topics=()
+referrer-policy: strict-origin-when-cross-origin
+server: Vercel
+set-cookie: giga_eve_session_hint_v1=; Path=/; Max-Age=0; Domain=.pumpgtm.com; Secure; SameSite=lax
+set-cookie: giga_eve_session_hint_v1=; Path=/; Domain=.pumpgtm.com; Secure; SameSite=lax
+strict-transport-security: max-age=63072000
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-matched-path: /
+x-powered-by: Next.js
+x-vercel-cache: MISS
+x-vercel-id: bom1::iad1::prpvt-1794920917029-a68f4346ff84
+
+HTTP/2 200 
+age: 0
+cache-control: private, no-cache, no-store, max-age=0, must-revalidate
+content-security-policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://us.i.posthog.com https://us-assets.i.posthog.com https://js.stripe.com https://*.js.stripe.com https://checkout.stripe.com https://maps.googleapis.com https://cdn.jsdelivr.net https://app.cal.com https://static.ads-twitter.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdn.jsdelivr.net; img-src 'self' blob: data: https:; font-src 'self' data: https://fonts.gstatic.com; media-src 'self' blob: https://*.supabase.co; connect-src 'self' https://*.supabase.co wss://*.supabase.co https://*.posthog.com wss://*.posthog.com https://api.stripe.com https://checkout.stripe.com https://js.stripe.com https://*.js.stripe.com https://link.com https://*.link.com https://maps.googleapis.com https://photon.komoot.io https://app.cal.com https://analytics.twitter.com; frame-src 'self' https://*.unipile.com https://checkout.stripe.com https://js.stripe.com https://*.js.stripe.com https://hooks.stripe.com https://link.com https://*.link.com https://app.cal.com; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self' https://checkout.stripe.com https://billing.stripe.com https://invoice.stripe.com; frame-ancestors 'self'; upgrade-insecure-requests
+content-type: text/html; charset=utf-8
+date: Tue, 17 Nov 2026 13:08:37 GMT
+link: </_next/static/immutable/media/691f7cbfe73110bf-s.p.1_tdlb83lhbr1.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/immutable/media/797e433ab948586e-s.p.1v5bejj26fx9h.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/immutable/media/c47649aa31f9e140-s.p.2rlmbw0a3_pri.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/immutable/media/caa3a2e1cccd8315-s.p.0zr6hhvz-h9nw.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </brands/pumpgtm/mark.png>; rel=preload; as="image"
+permissions-policy: camera=(), microphone=(), geolocation=(), payment=(self "https://checkout.stripe.com" "https://js.stripe.com"), usb=(), browsing-topics=()
+referrer-policy: strict-origin-when-cross-origin
+server: Vercel
+set-cookie: giga_eve_session_hint_v1=; Path=/; Max-Age=0; Domain=.pumpgtm.com; Secure; SameSite=lax
+set-cookie: giga_attribution=%7B%22utm_source%22%3A%22direct%22%2C%22utm_medium%22%3A%22none%22%7D; Path=/; Expires=Mon, 15 Feb 2027 13:08:37 GMT; Max-Age=7776000; Domain=.pumpgtm.com; Secure; SameSite=lax
+set-cookie: giga_attribution_history=%7B%22first%22%3A%7B%22source%22%3A%22direct%22%2C%22evidence%22%3A%22none%22%2C%22medium%22%3A%22none%22%2C%22landing_path%22%3A%22%2Fonboarding%22%2C%22observed_at%22%3A%222026-11-17T13%3A08%3A37.392Z%22%7D%7D; Path=/; Expires=Mon, 15 Feb 2027 13:08:37 GMT; Max-Age=7776000; Domain=.pumpgtm.com; Secure; SameSite=lax
+strict-transport-security: max-age=63072000
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-matched-path: /onboarding
+x-powered-by: Next.js
+x-vercel-cache: MISS
+x-vercel-id: bom1::iad1::qmbdd-1794920917372-ce3ec8dc1b05
+

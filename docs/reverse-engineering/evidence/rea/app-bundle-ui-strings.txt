@@ -1,0 +1,1596 @@
+ Add to Claude →
+ As this is called in a browser runtime, consider removing the cookies option object to use the document.cookie API automatically.
+ Configure your tracing SDK to emit W3C trace context on outgoing requests.
+ Energy. Emails with no match are free, and anyone without a confident match is skipped. Turned off, people with only an email are added only when this sequence has an email step.
+ Export from the Sales Navigator tab where you are signed in so that session is included.
+ Let’s get you back.
+ Once your monthly note limit is reached, invites send without a note.
+ Open in Claude Code →
+ Overriding feature flag details!
+ Overriding feature flag payloads!
+ Overriding feature flags!
+ Sign in with Microsoft 
+ access includes your mailbox’s organizational unit.
+ after acceptance
+ already exists. Send a one-time sign-in code to 
+ and acknowledge the 
+ and choose Authenticate, or run this. Sign in with the account you use here and allow the connection.
+ and its matching OAuth client. Choose 
+ and paste this URL.
+ and search using this client ID.
+ argument passed to 
+ as the authentication. Click
+ before this request, create a new sequence and choose “Switch channels based on what they do”.
+ button and choose
+ cannot be less than min: 
+ characters, including names.
+ days after this step can run.
+ days is skipped.
+ does it from the same chat.
+ drafts a reply. Approve or edit it in Inbox.
+ filled in. Click
+ for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+ for your first month after your 
+ if Google only shows your administrator’s account.
+ in your browser so you can allow the connection.
+ is invalid for argument 
+ is invalid for option 
+ is invalid for this domain`,code:
+ misunderstood. You will still approve the leads and sequence before launch.
+ must be a number. using max or fallback. max: 
+ next to the message box, open Connectors and turn
+ on. Then tell it who to reach.
+ option must be nested under 
+ or property_blacklist config: 
+ other messages keep sending.
+ people with only an email
+ prepares the people and outreach for your approval.
+ should resolve to an object. But found 
+ sign-in window opens. Sign in with the account you use here and allow the connection.
+ so you can sign in and allow the connection. In a chat, click
+ so you can sign in with the account you use here and allow the connection. In a chat, type @ and pick 
+ so you can sign in with the account you use here and allow the connection. Then tell Grok who to reach.
+ to a booked meeting',
+ to find leads →
+ to find leads, write a sequence or answer your replies. 
+ to install it. A 
+ to pay with 
+ to resume where you left off.
+ under Custom apps. Paste this URL and click 
+ was loaded on the page, but @stripe/stripe-js@
+ who to reach
+ will read the new website and redo your audience.
+ will use the new sequence.
+ with LinkedIn URL
+ workspace for 
+ — First connection requests go out. When someone accepts, they get your message.
+ — Open Overview to see who accepted and who replied.
+$0 today for your seven-day trial, then $60 for your first paid month. $75/month after that.
+$0 today. Cancel anytime.
+'Comic Sans MS', cursive
+'Courier New', monospace
+'Hanken Grotesk', 'Hanken Grotesk Fallback'
+, and paste this URL.
+, and your trial keeps running
+, click Continue, review the settings, and click 
+, including the use of public professional information to enrich profiles across customers.
+, or it comes from your uploaded list.
+, or the organizational unit containing the mailbox you want to connect.
+, then ask ChatGPT to find buyers or check your replies.
+, then tell it who to reach.
+, then tells you how to sign in.
+, then tells you how to sign in. No key is needed.
+,'LADR Media went from 
+,`leaving duplicate topic 
+,counter:0,seen:new Map,sharedDefsExtractedFor:void 0,sharedEmitDoneFor:void 0,cycles:e?.cycles??
+,description:'Explain why this tool is called and how it supports the user\'s goal. Describe the abstract purpose only. Do not include personal or identifying information. Generalize specific entities as roles such as 
+,description:'The exact model identifier you are running as, taken from your system prompt or environment. Pass 
+-day free trial, then $
+. Developer mode is no longer needed.
+. Doing nothing
+. No email was sent.
+. This may result in unexpected behavior. For more information, see https://docs.stripe.com/sdks/stripejs-versioning
+. Undo available for five seconds.
+. Using max value instead.
+. Using min value instead.
+1 linked Play kept its current sequence. Review it in Plays.
+14-day eligible people
+14-day replies
+14-day reply rate
+404 · Page not found
+:e instanceof File?
+:e instanceof Map?
+:e.error instanceof Error?lQ:
+:return nk&&
+A blank follow-up subject keeps the email in the first email’s thread.
+A managing director asked me for a meeting.
+A reply stops all outreach across this sequence.
+A reply stops all outreach.
+A short nudge — two lines is plenty.
+A small detour. A clear way back.
+A team has already purchased credit quota or a subscription elsewhere. What would make switching worth it?
+A teammate already connected that X account. Ask them to share it with you from their Accounts page.
+A two-minute hello from our founder
+A workspace for this company already exists. Ask its owner to invite you instead of creating a new one.
+API key is required to connect to Realtime
+Accept every permission on Microsoft's screen so PumpGTM can send and see replies.
+Accepted, then wait
+Add Cookie-Editor
+Add Energy or update your workspace allocation to start finding people.
+Add LinkedIn
+Add a card to continue. Stripe shows the exact recurring price and billing interval before you confirm, and billing begins after the trial unless you cancel.
+Add a custom app
+Add a specific observation
+Add a subject to the first email before saving.
+Add custom MCP server
+Add custom connector
+Add each person’s file in “Waiting for you” above, upload several at once there, or give it to Claude. 
+Add email account
+Add email version
+Add message variant
+Add one specific observation that builds on a point in their post.
+Add people to this sequence to set their delivery addresses.
+Add selected leads
+Add the experience PumpGTM may mention, in your own words.
+Add this only for an existing Sales Navigator or Recruiter session.
+Add what your company sells on the Company page first, then try again.
+Add your company website in Company settings, then try again.
+Add your mobile number
+Add your selected leads
+Add your website
+Adding your selected leads
+Adjust anything 
+After PumpGTM
+Albert gets replies from VPs of Clinical Affairs, a niche buyer most prospecting tools get wrong.
+All LinkedIn accounts included in your plan are connected. Disconnect one, or contact us to add accounts to your plan.
+All overrides cleared
+Allow PumpGTM in Google Workspace
+Already connected on LinkedIn?
+Already have an account?
+Already on? Skip to the next step.
+Already read
+Already updated billing?
+Always included
+An app password if your provider offers one, otherwise the mailbox password.
+Android Mobile
+Android Tablet
+Any provider
+App password
+App passwords unavailable? Your account’s security settings or company policy may prevent them.
+Approval allows real cake purchases. Replies stop unpaid orders.
+Approve and start →
+Approve messages
+Approved campaigns start as soon as X is connected.
+Approved campaigns start as soon as your inbox is connected.
+As a YC founder, I had to figure out how to sell my product while building something that people actually want.
+Ask a workspace admin to connect an email account.
+Ask for buyers. 
+Ask in Agent mode
+Ask one genuine question about a specific point in their post.
+Attach files
+Attach files to LinkedIn step
+Attributed replies
+Attributes truncated: the value exceeds the OTLP encoder budget
+Audience brief
+Audience choices saved
+Audience size not checked yet.
+Auth session or user missing
+Authorization header
+Authorize PumpGTM in a separate window, then return here. This card updates when the connection is confirmed.
+Automatically add new matches
+Available actions
+Awaiting health checks
+Back to sign in
+Backed by Entrepreneurs First
+Backed by Solo Founders Program
+Backed by Y Combinator
+Bad HTTP status: 
+Before PumpGTM
+Before inviting someone, PumpGTM checks their LinkedIn posts and comments and skips people with none in the last 30 days. This runs in the background while outreach sends, and can lower how many people are invited each day. You can change it later in the Play.
+Billing period
+Brian Noronha
+Browser does not support WebAuthn
+Browser extension
+Browser returned unexpected credential type
+Browzer reaches DevRel leaders with outreach that reads like Rahul wrote it
+Build your first campaign
+Building your campaigns
+Built in San Francisco with love
+Buy domain & inboxes
+By creating an account, you agree to 
+By submitting billing information, you agree to our
+Cake recipients
+Campaign sending channels
+Can I cancel before the trial ends?
+Cancel subscription
+Cannot call a class as a function
+Cannot complete initialization: remote config is null
+Cannot convert undefined or null to object
+Cardless execution has stopped. Your LinkedIn connection, approved leads, copy, learning, and campaign state are preserved.
+Case studies
+Chaitanya Choudhary
+Chaitanya tests messaging on engineering leaders, then brings his whole team onto outbound.
+Change email
+Change lead source
+Change website
+Channel removal is available for draft sequences.
+Check billing status
+Check for activity in last 30 days
+Check the information you entered and try again.
+Check your inbox
+Checking each person
+Checking your campaigns…
+Checkout complete. Create your account to finish setting up your outreach.
+Checkout was cancelled. Your workspace is saved, and you can continue whenever you’re ready.
+Chethan Srivatsa
+Choose a customer testimonial
+Choose one way to connect
+Choose the AI tool you use to work with your Plays, leads and replies.
+Choose the inbox this email campaign will send from.
+Choose whether to review new matches before adding them to outreach.
+Choose who each campaign should reach.
+Choose your AI tool
+Claim 20% off and start trial
+Claim within 
+Claude Add custom connector dialog with Name and MCP server URL fields
+Claude Code add command
+Claude Code login command
+Claude opens 
+Click to play with sound
+Click “This site”, then “Allow”.
+Client ID copied.
+Close LinkedIn connection
+Close checkout
+Close step details
+Cloudflare Workers detected. WebSocket clients are not supported in Cloudflare Workers.
+Co-founder and COO, Hank
+Codex add command
+Codex login command
+Cold outreach
+Come back here and paste.
+Comment guidance
+Comment on LinkedIn
+Comment on post
+Comment on their post
+Comment style
+Commenting on someone's post before the connection request is not turned on for this workspace yet. Likes and profile views before it work as usual.
+Companies already paying for something like yours.
+Companies hiring now
+Companies like your best customer
+Companies that just raised
+Company like your best customer
+Company name
+Company name or website
+Company website
+Configure new app
+Confirm company
+Confirm details
+Confirm new password
+Confirm website
+Confirm your company details before starting discovery.
+Confirm your email before creating the workspace.
+Confirm your email, then try again.
+Confirming these details lets this person continue on the next sequence run.
+Confirming your order
+Connect LinkedIn
+Connect LinkedIn now to add selected profiles.
+Connect LinkedIn to continue
+Connect LinkedIn →
+Connect PumpGTM to your own code
+Connect a Microsoft mailbox
+Connect a sender on Accounts before importing leads.
+Connect an account to send from
+Connect any mailbox
+Connect email
+Connect mailbox
+Connect the inbox you want to send from. PumpGTM uses it for your email campaigns and their replies.
+Connect with Cookie-Editor instead
+Connect with Google 
+Connect with a session cookie
+Connect with a session cookie instead
+Connect with the LinkedIn session you already use
+Connect with your signed-in browser instead
+Connect your AI
+Connect your Instagram
+Connect your X account, then come back to this tab. We DM new followers who match your buyers.
+Connect your account
+Connected Apps
+Connected to 
+Connection note
+Connection request without a note
+Connection requests go out from your LinkedIn during working hours. Here's what to do from now on.
+Continue in the browser
+Continue the previous email thread
+Continue with 
+Continue with paid plan
+Continue with your verified email
+Continue your workspace setup
+Conversations enabled but missing token in remote config.
+Conversations loaded successfully
+Conversations not available yet.
+Conversations not loaded yet.
+Cookie-Editor asking for permission to read cookies, with the This site button circled.
+Copy PumpGTM client ID
+Costs 1 Energy for each profile found, so up to 
+Could not check who can move.
+Could not confirm the save. Retry to continue it.
+Could not confirm the save. Retry to continue the same new sequence.
+Could not confirm this move. Try checking again.
+Could not load conversations script
+Could not load product tours script
+Could not save address.
+Could not save sequence.
+Could not save. Please try again.
+Could not skip messages.
+Could not skip messages. Check your connection and try again.
+Could not write this message. Try again.
+Couldn't be set up
+Couldn’t connect the preview. Try again.
+Create account
+Create an app password
+Create as a plugin
+Create design
+Create new sequence
+Create your account
+Create your first cake design.
+Creating each Play
+Creating image…
+Current role not listed
+Cursor shows the 
+Customer results and testimonials
+Decided the moment they get here
+Deferring extension initialization to improve startup performance
+Delivery for 
+Delivery instructions
+Delivery is requested 
+Delivery phone
+Describe the smallest useful trial, setup required, time to value and what would count as a win.
+Describe the team, workflow or situation where you win. Where is another tool a better fit?
+Design picker pagination
+Designs couldn’t load.
+Details needed
+Developer relations leaders, messaged from Rahul's own LinkedIn, without the slop-list feel.
+Dhravya Shah
+Dhravya reaches the right people from his own LinkedIn without giving up his week to prospecting.
+Did the walkthrough video replace the first call completely, or do bigger deals still get one?
+Dikshit Jain
+Direct draft
+Disabled. Not loading surveys.
+Disabling Automatic Event Collection because this browser is not supported
+Discard IP data
+Discoverable credentials were required but no available authenticator supported it
+Dismiss move notification
+Do I have to write the campaign myself?
+Docmost follows up with trial signups and abandoned checkouts on LinkedIn
+Docura Health
+Download image
+Draft saved. Nothing is sending.
+Drafting the first message
+Drag steps onto + · Drag the background to pan
+Drop CSV, Excel, or PDF here
+Dropped segments
+Dropping an attribute with an empty key
+Each channel follows its own schedule.
+Each column fills a token you can write in any message, exactly as in your file. Clear a token to skip its column. A blank cell sends empty, or write a fallback like
+Each morning
+Each person's file
+Each person’s move was checked again before changing their sequence.
+Edge Function returned a non-2xx status code
+Edit audience
+Edit campaign
+Edit messages
+Edit what you sell
+Either set disable_persistence to false, keep persistence disabled and pass a stable ID through bootstrap.distinctID, or enable reuseAnonymousId.
+Either set persistence to 'localStorage+cookie', keep this persistence and pass a stable ID through bootstrap.distinctID, or enable reuseAnonymousId.
+Email address to connect
+Email follow-up
+Email me a reset code
+Email me a sign-in code
+Email message
+Email subject
+Email the same people for more replies.
+Emails, separated by commas
+Empty credential response
+Endorse skill
+Endorse their first LinkedIn skill
+Engage on LinkedIn
+Engage with their recent posts
+Engagers on your LinkedIn posts
+Engagers on your X posts
+Engagers on your company page
+Engagers on your company's X
+Engineering managers at B2B SaaS companies
+Enter a valid company website.
+Enter a valid phone number.
+Enter the settings and password
+Enter your email address first.
+Enter your full email address, such as you@company.com.
+Enter your sign-in code
+Enter your verification code
+Eric Sabshon
+Eric runs his team's LinkedIn accounts from one workspace to reach general contractors, suppliers and the trades.
+Error applying remote config
+Error capturing deferred pageview
+Error completing conversations initialization
+Error during shutdown
+Error fetching access token from callback
+Error in URL with unspecified error_description
+Error in active matching surveys callback
+Error in beforeSend function for log:
+Error in get_current_url, falling back to window.location.href
+Error in survey callback
+Error initializing conversations
+Error initializing extension:
+Error loading feature flags
+Error while handling activated items change
+Error while initializing PostHog app with config id 
+Error while running feature flags reloading callback
+Event payload is required
+Every motion segmentId must reference a returned market segment
+Every plan includes
+Everything you just set up works from there too.
+Example buyer roles
+Example buyers 
+Example campaign revenue
+Exception dropped: matched a suppression rule
+Exception dropped: thrown by a browser extension
+Exception dropped: thrown by an injected browser script
+Exception dropped: thrown by the PostHog SDK
+Execution resumes only after PumpGTM receives verified Stripe state. A checkout redirect alone never restarts outreach. Block:
+Exit full screen
+Expand sequence canvas
+Expected array of non-empty strings
+Expected non-empty string
+Export cookies in one click. No password or code.
+Exported JSON
+Extra columns
+Facebook Mobile
+Failed to add exception step. Ignoring breadcrumb.
+Failed to capture clipboard event
+Failed to capture early access feature enrollment
+Failed to create a new BroadcastChannel, multi-tab state changes will not be available
+Failed to dispose feature flags
+Failed to fetch remote config from PostHog.
+Failed to produce browser extension event properties
+Failed to set initial Realtime auth token:
+Failed to set up feature flags
+Failed to unsubscribe feature flag reloading
+Featured on Product Hunt
+Fewest employees
+Find LinkedIn profiles for the 
+Find LinkedIn profiles from email
+Find leads, write sequences and answer replies from Claude, Cursor, Codex or ChatGPT. You can choose leads anytime from Leads.
+Find matches again
+Find thousands of high-intent buyers and reach them across all GTM channels.
+Find your provider's mail server settings
+Finding people who match…
+Finding people you already know
+Finding the right buyers for 
+Finding your first buyers
+Finds about 
+Finish confirming your company before saving this sequence.
+Finish connecting LinkedIn before starting.
+Finish later
+Finish setting it up
+First replies
+First sequence direction
+Fit sequence to canvas
+Flag overrides set
+Flags not loaded yet. Not loading surveys.
+Follow their X account
+Follow up with new signups on your selected channels.
+Follow up with signups
+Followers who match your buyers get a DM.
+For Sales Navigator
+Forgot password?
+Found for you and always included
+Founder and CEO
+Founder and CEO, Adaptable
+Founder and CEO, Docmost
+Founder and CEO, Harbor
+Founder and CEO, Supermemory
+Founder ex-Amazon and Tesla
+Founder, LADR Media
+Founders of 10 to 50 person agencies in the US
+Founders of early-stage developer tool companies
+Free trial terms
+Friends of friends
+From your uploaded list, or waits until you add it
+Full sheet · about 100 people
+Future leads from 
+GTM engineering: why a lead is fit, timing, intent and confidence
+GTM guide for vibe coders: first sales on LinkedIn
+Gemini opens 
+Generated targeting and copy are proposals, not verified facts.
+Get 20% off your first month
+Get AI help with these steps
+Get replies and results back as webhooks to your own systems.
+Get your key
+Get your workspace key from the connection page.
+Getting each campaign ready for its messages
+Getting your first leads ready to review
+Gmail / Google Workspace
+Gmail and Outlook
+Gmail or Google Workspace
+Google Admin
+Google Search App
+Google Workspace
+Google Workspace setup prompt
+Google did not grant access. If you declined the permissions, try again. If Google says the app is blocked, use the administrator steps below.
+Google shows it once in a yellow box. Spaces are fine.
+Google sign-in did not finish. Try again.
+Google sign-in is unavailable. Try again later, or use an app password if your account allows one.
+Google sign-in was cancelled. Try again.
+Google signed you in, but Gmail refused reading replies. Your Workspace admin may have turned off IMAP for this mailbox.
+Google signed you in, but Gmail refused sending. Your Workspace admin may have turned off SMTP for this mailbox.
+Half sheet · about 50 people
+Hank reaches contractors from every account on the team
+Harbor reaches clinical leaders at medical device companies on LinkedIn
+Harsh Shroff
+Have their email?
+Head of Growth
+Head of Sales at Northwind
+Heads of clinical operations at mid-size biotechs
+Here’s what we’ll send
+Hide password
+History API monitoring enabled, starting...
+History API monitoring stopped
+How could they try you alongside their current tool?
+How to connect
+How we find your buyers, run LinkedIn, email and X together, and work inside your AI.
+How we score every account for 10+ YC companies before anyone reaches out.
+HubSpot forms
+I can’t connect right now
+I got a meeting with a COO for the next day
+I love how easy it is to hook up different accounts. It's been working really good, and I'm gonna keep bringing on new accounts in here, just because of how useful it is.
+I raised venture capital and got into Y Combinator in early 2026, and built out a lot of GTM systems to sell and scale my company.
+I refreshed the connection
+I shared it with a few friends in San Francisco and turns out a lot of people find it valuable.
+I understand and want to continue
+I'm onboarding my entire team now
+IMAP and SMTP
+ISO datetime
+ISO duration
+If Microsoft offers an approval request form, submit it there.
+If the address is registered, a new code is on its way.
+If they followed back
+If this email is linked to an account, a sign-in code is on its way to 
+If you manage your company’s Google Workspace, follow these steps. Otherwise, ask your administrator to complete them for the Workspace that owns your mailbox.
+If you sign in to LinkedIn with Google or Apple, you may not have a LinkedIn password.
+If you'd rather not hear from me again, unsubscribe here:
+If your client cannot sign in with OAuth, send this header instead. Keep it private: it acts as your workspace.
+If your session expired, sign in in a new tab, then return here
+Ignoring exception step because message must be a non-empty string
+Ignoring reserved exception step fields
+Illustrative artwork layout
+Illustrative personalized cake
+Image on LinkedIn
+Imports skip people already in your workspace. You can find them in Leads.
+In a chat, type @ and pick 
+In any MCP client or your own agent, add a streamable HTTP server with this URL. Clients that support OAuth sign in on first use.
+InMail message
+InMail subject
+Inbox purpose
+Index out of range
+Initializing extensions synchronously
+Instagram DM
+Instagram DM follow-up
+Instagram direct message
+Instagram message
+Internet Explorer
+Internet Explorer Mobile
+Intersection results could not be merged
+Invalid Date
+Invalid JWT signature
+Invalid URL format
+Invalid UTF-8 sequence
+Invalid authority
+Invalid code point
+Invalid flag_keys found:
+Invalid host
+Invalid hostname
+Invalid input
+Invalid input to extend: expected a plain object
+Invalid input to safeExtend: expected a plain object
+Invalid port
+Invalid protocol
+Invalid value for property_denylist config: 
+Invite your team
+Invites sent
+Is connecting my LinkedIn safe?
+Is this you trying to sign in?
+It found exactly who I needed to reach
+It is free and used by 2 million people.
+I’ll do this later
+JWT has expired
+JWT validation failed
+Keep the same saved bearer key and endpoint: 
+Keep this sequence running
+Keeping people whose current role fits
+Keys batch size must be between 1 and 500 items
+Leads approved
+Leads touched
+Learn from our guides
+Legal and support
+Like LinkedIn posts
+Like and comment on their post
+Like and comment on their post first
+Like their LinkedIn post
+Like their X posts
+Like their post first
+Lining them up
+LinkedIn InMail
+LinkedIn connection is not available for this workspace right now. Ask the workspace owner for help.
+LinkedIn connection request
+LinkedIn didn't accept that email and password.
+LinkedIn message
+LinkedIn messages and endorsements below need this step.
+LinkedIn, X and email
+Lite includes one LinkedIn account. To add another, the workspace owner can move back to Starter with Change plan on Billing first.
+Loading designs
+Loading people…
+Loading saved design
+Loading website logo
+Loading your saved sequence
+Local preview: this simulates connection without linking a real account.
+Log was rejected in beforeSend function
+Logs queue is full, dropping oldest record.
+Looking for people who fit…
+Mailbox email address
+Mailboxes pagination
+Matching titles, company size and location
+Meeting coverage
+Message after the connection is accepted
+Message as soon as a follow-back is detected, within sending limits.
+Message attachments
+Message everyone or wait for a follow-back
+Message people you already know
+Microsoft Edge
+Microsoft did not grant access. If you declined the permissions, try again. If Microsoft showed “Need admin approval”, open the help below.
+Microsoft says “Need admin approval”?
+Microsoft sign-in did not finish. Try again.
+Microsoft sign-in was cancelled. Try again.
+Microsoft signed you in, but that account has no Outlook mailbox PumpGTM can use. Sign in as the account that owns the mailbox.
+Microsoft’s admin instructions
+Missing a name, address, or phone? That person waits for your input.
+Missing exp claim
+Mobile Safari
+Mobile number
+Monthly outreach included
+More senders reach more people each week.
+Most employees
+Move cancelled
+Namanyay Goel
+Namanyay Goel in San Francisco
+Name the outcome and how they would measure it, such as fewer missed bugs or less time reviewing.
+Name, delivery address, and phone are required. Each person waits until you add theirs.
+Needs message review
+Needs support
+New Connector
+New followers and likers get a follow and a DM.
+New password
+Next testimonial
+No actions match that search.
+No available authenticator supported any of the specified pubKeyCredParams algorithms
+No available transport method
+No browser detected.
+No code detected.
+No event name provided to posthog.capture
+No follow-back: skip this step
+No mailboxes match your search.
+No outreach will be sent
+No response from target
+No sample people found for this audience yet.
+No suitable XMLHttpRequest implementation found
+No toolbar load function found
+No, it's not me
+No. PumpGTM only sends connection requests, and the starting message you approved, to the people you approve, and only after you connect LinkedIn. You can add follow-up messages in the product at any time.
+No. Your AI shows you each campaign and its messages before it starts, and nothing is sent from LinkedIn until you connect it.
+Nobody in this audience works at a company that raised money in the last 90 days.
+Not accepted: keep waiting
+Not available in this report
+Not imported
+Not there? Click the puzzle piece, then Cookie-Editor. Pin it so it stays in view.
+Nothing can go out until you connect 
+Nothing seems to happen. It has been copied.
+Nothing sends until LinkedIn is connected and your trial starts.
+Nothing sends until you approve the messages.
+Nothing sends until you connect your accounts and launch.
+Nothing to set up from these answers. Go back and change one, or add a Play later.
+Number must be finite
+Oculus Browser
+On the post you comment on
+Onboarding progress
+Once approved, return here and sign in with the mailbox you want to connect.
+Once per path
+One campaign needs
+One click opens Claude Code with the setup prompt. Press Enter and it adds 
+One click opens Claude's Add custom connector dialog with 
+One click opens Codex with the setup prompt. Send it and Codex adds 
+One click opens Cursor with 
+One line is enough. You will approve the leads and the sequence before anything sends.
+Only LinkedIn session cookie li_at and optional premium cookie li_a are forwarded. The full export is never sent or saved.
+Only if they haven’t replied
+Only one short starting message, and PumpGTM drafts it for you from your website to edit or replace. You can skip it and send connection requests only. Follow-ups, the number of steps, and the targeting are edited in the product at any time.
+Only people who did not follow back · 
+Only people who followed back · 
+Only the first time.
+Only workspace owners and admins can connect X.
+Open 2-Step Verification
+Open App passwords
+Open LinkedIn
+Open LinkedIn in the same browser.
+Open LinkedIn or Sales Navigator in the same browser.
+Open Sales Navigator 
+Open a new Codex session and tell it who to reach.
+Open billing to review your subscription, update your payment method, or pay an outstanding invoice. Then return here to continue setup.
+Open the confirmation link we emailed you when you created your account, or sign in with a code below. The code confirms your email too.
+Open the connection page, choose your AI tool and follow its setup instructions.
+Open the image on LinkedIn
+Open the post on LinkedIn
+Opening calendar…
+Optional · finish setup from your dashboard.
+Optional: use a bearer key
+Or write your own guidance, for example: ask how they hire for this role
+Order confirmed
+Otherwise: skip this step
+Outreach approach
+Outreach channels
+Outreach could not be started. Review the setup and try again.
+Outreach is on. Here's your routine.
+Outreach today
+Over the past few months, we have made it into a simple product that anyone can use, and I welcome you to try us out to find people who face the problem you’re solving and get more sales.
+Parse pasted text
+Password reset code
+Paste session cookie
+Paste the app password here
+Paste this into an AI assistant with browser access.
+Pause testimonial and logo animations
+People posting about the problem
+People these sources find stay in Plays for your review before outreach.
+People uploaded with a matching column send with that value. Everyone else waits until you add theirs, in “Waiting for you” above or by telling Claude who and pasting the link. Follow-ups count from when it sends.
+People who engage on X
+People who engage with your posts
+People who like and comment on competitors' or creators' posts.
+People who react get a connection request and a message.
+Person joins sequence
+Personalized video
+Philip finds the people behind signups and checkouts and reaches them from his own account.
+Pick at least one audience, or type your own.
+Pick at least one audience.
+Pick at least one, so we know where to reach them.
+Pick at least one.
+Pick the forms people fill in.
+Plain-text email · workspace setting
+Plant managers at manufacturers with over 200 staff
+Play testimonial and logo animations
+Play the founder's walkthrough
+Post reaction
+PostHog loadExternalDependency extension not found.
+PostHog logs flush failed:
+PostHog metrics flush failed:
+PostHog request timed out
+Preparing your private key…
+Preparing your sequences
+Preparing your workspace
+Preview code verified.
+Preview code: 
+Preview message
+Preview people who fit your choices before you start your trial.
+Preview with sample values. Each person gets one version, and the same one if a send is retried.
+Preview with sample values. Nothing is sent from here.
+Previous page
+Previous testimonial
+Privacy Policy
+Product leaders at growing software companies
+Product tours not loaded
+Profile details unavailable
+Promise can't be resolved itself
+Prompt copied.
+PumpGTM client ID
+PumpGTM replies to each person’s latest original post. Every comment waits for your approval in Comments, and one nobody decides on within 
+PumpGTM waits for you to write this message for each person.
+Questions before outreach starts
+Questions before you launch
+Questions before you start
+Questions? Talk to the founder
+Quote expired
+Rachel Taylor
+Rahul Arulkumaran
+Reach someone without a connection request
+Reach them on 
+Reach them on X
+Reached the week they post the job you replace.
+Reached while they have budget to spend.
+React.Children.only expected to receive a single React element child.
+Read the API docs
+Read the Supermemory customer story
+Ready to order
+Real people like them
+Recipient details
+Recipient name
+Recorded meetings
+Reduce of empty OrderedDict with no initial value
+Refresh or reconnect the PumpGTM MCP server. If your app has no refresh control, disable and re-enable it or restart the app.
+Refusing to render web experiment since the viewer is a likely bot
+Relate their point to this experience of ours, in one sentence:
+Relay Error invoking the Edge Function
+Reload this sequence before removing a channel.
+Reload to try again, or go back.
+Remote config unavailable. Not loading surveys.
+Removal pending…
+Remove channel
+Remove each person's file
+Replies, results and approvals come back in the same chat.
+Reply to their latest post once you approve it
+Report scope
+Requires LinkedIn InMail access and available credits.
+Resend confirmation link
+Reset password and sign in
+Reset your password
+Resolve billing
+Restart video with sound
+Return to the AI app where you connected PumpGTM.
+Revenue operations leaders at B2B SaaS companies
+Review campaigns
+Review leads
+Review messages
+Review the assumptions and try again.
+Review updated setup
+Review your campaigns
+Review your saved campaigns and choose a sending channel to continue.
+Run this in your terminal to add the server.
+SDK is not enabled or survey functionality is not yet loaded
+Sample matches
+Samsung Internet
+San Francisco
+Save agreement and continue
+Save audience
+Save changes
+Save or discard your unsaved edits before removing a channel.
+Save these changes in a new sequence?
+Save to add recipient details.
+Save website
+Saved and paused.
+Saved and paused. Start the new sequence when you’re ready.
+Saved limits: 
+Saved. The sequence keeps running with these steps.
+Saving your answers
+Saving your audience choices
+Saw your post about Acme hitting its Q3 pipeline goal a month early.
+Scroll down to see more messages
+Search actions
+Search actions…
+Search email, sender or status
+Search mailboxes
+Secure checkout by 
+Security → Access and data control → API controls → Manage app access
+See a LinkedIn campaign
+See an example comment
+See the founder’s 2 minute walkthrough:
+See who PumpGTM would reach on LinkedIn.
+Seed-stage startup
+Segoe UI Emoji
+Selected audiences
+Send a WhatsApp message or follow-up
+Send a direct message or follow-up
+Send another code
+Send each signup to one URL.
+Send invites →
+Send people in with the API, or point any signup form at a Play's webhook URL.
+Send verification code
+Send without the video if it is unavailable.
+Send without video if unavailable
+Sending code…
+Senior Digital Marketing Associate, Soho Square Solutions
+Sent. Open the email on your computer to finish.
+Sequence canvas
+Sequence editor
+Sequence flow canvas
+Sequence options
+Sequence step list
+Sequence steps
+Sequence view
+Sequences that switch channels are not turned on for this workspace yet.
+Series A software company
+Session cookie
+Set up this campaign
+Set up with AI
+Set up your campaigns before you go?
+Setting up your outreach…
+Setting who each campaign reaches
+Setup is done. Go back to your chat and tell your AI to continue. It picks up right where you left off.
+Share a related experience
+Share quotes, who said them and a source link. Tell us what we have permission to use publicly.
+Share results, the comparison, test conditions and source. Include limitations so we can make accurate claims.
+Share the customer's situation, what changed and the result, with links where available.
+Shorten this audience to load sample people.
+Show password
+Show passwords
+Sign in as the mailbox you want to send from and accept the permissions. No password to copy.
+Sign in to connect the Instagram account you want to use.
+Sign in to the same account you are reconnecting. For Sales Navigator access, use the Sales Navigator tab.
+Sign in with Microsoft
+Sign in with Microsoft is not available right now.
+Sign in with a different login
+Sign in with password instead
+Sign in with the Google account for the mailbox you want to connect. Connect with Google works only when your Google admin has allowed PumpGTM.
+Sign in, then ask
+Signup changed your existing PumpGTM connection from preview mode to your private PumpGTM workspace. Refresh it once so your AI drops the old preview tools and loads the member tools.
+Skip for now
+Skip messages, send connection requests only
+Skip only if you’re on your phone or don’t have your login with you. You can connect later from Overview.
+Skip this step, send connection requests only
+Skipped for people you are already connected with.
+Skipping exception capture because a suppression rule matched
+Skipping exception capture because it was thrown by an extension
+Skipping exception capture because it was thrown by an injected browser script
+Skipping exception capture because it was thrown by the PostHog SDK
+Skipping the deck probably works best when buyers already know the category. For something new, the call still does the explaining.
+Skips verification
+Soho Square Solutions
+Some industries can't be searched. Edit to review.
+Something went wrong on our side while creating it. Your Overview shows how to get it fixed.
+Start a fresh analysis
+Start finding people
+Start messaging your buyers
+Start outreach →
+Start reaching YC investors
+Start reaching hundreds of high-value leads every month like:
+Start your free trial
+Start your free trial before connecting and adding these leads.
+Start your plan first. Taking you to Billing.
+Starting in debug mode
+Starting your outreach now
+Starts a new thread
+Step details
+Steps run in order
+Stops if received a reply
+Stops if they reply
+Street address
+Stripe shows the methods eligible for your location and device, including cards, Link, Apple Pay, Google Pay, and options such as Klarna where supported.
+Suite or floor
+Supermemory put founder-led LinkedIn outreach on autopilot
+Survey element not found
+Survey is not eligible to be displayed: 
+Survey not found
+Symbol is not a constructor
+Synchronous parse encountered promise.
+Target audience
+Target audiences
+Teammate emails
+Teammates get their own workspace on your team. You see everyone’s results in one place.
+Tell Cursor who to reach. 
+Tell it who to reach
+That X connection did not work. Try again.
+That did not save. Try again.
+That did not save. You can finish reviewing from Overview.
+That email is wrong — create a new login
+That play was archived or removed. Pick another play and try again.
+That sequence was archived or removed. Pick another sequence and try again.
+That verification code wasn't accepted. Check the code and try again.
+The Cookie-Editor page in the Chrome Web Store, with the Add to Chrome button circled.
+The Cookie-Editor popup with the Export button at the bottom right and the JSON option circled.
+The argument must be a React element, but you passed 
+The authenticator was previously registered
+The authenticator was unable to process the specified options, or could not create a new credential
+The browser toolbar with the puzzle piece Extensions menu open and Cookie-Editor circled.
+The decision could not be saved.
+The four steps I give every founder with a working product and no revenue yet.
+The link may be old, or the page may have moved.
+The linked Play keeps
+The new sequence will stay paused until you start it.
+The reply ended.
+The saved design couldn’t load.
+The secure connection route is temporarily unavailable. Try again shortly.
+The selected workspace changed. Reload this page before saving.
+The suggested change is filled in. Check it, then press Save changes to apply it.
+The trial runs a live buyer search and real outreach on your behalf, which costs us money per account. The card keeps that usable without a sales call first.
+The wait starts when the comment posts or is skipped.
+Then sign in. Codex opens 
+This applies when your company’s Microsoft 365 policy requires an administrator to approve PumpGTM. If you cancelled or declined permissions, try signing in again.
+This browser could not keep a recovery copy. Save before leaving.
+This company setup could not be completed. Sign in to an existing workspace or start again.
+This connection is no longer available. Refresh Accounts and try again.
+This connection session expired. Start again.
+This edit affects steps people have already reached. A new sequence keeps their progress unchanged.
+This edit changes a message someone may already have received. Save your edits as a new sequence to use them for untouched leads.
+This file is too large to import at once. Split it into smaller files and import each one.
+This inbox is part of a PumpGTM email package that isn’t cleared to send right now. Check the package status under Email inboxes, or contact us if it stays this way.
+This invitation expired. Ask the workspace owner for a new link.
+This invitation has already been used.
+This invitation has expired. Ask the workspace owner for a new link.
+This invitation is invalid or no longer available.
+This invitation is no longer available. Ask the workspace owner for a new link.
+This invitation was revoked by the workspace owner.
+This invitation was revoked. Ask the workspace owner if you still need access.
+This is a different LinkedIn account. Sign in to the account shown in Accounts and reconnect with that session.
+This item is no longer available in this workspace. Reload the page.
+This move could not be loaded. Refresh to try again.
+This move is taking longer than expected.
+This needs the LinkedIn pages of competitors to watch. You can add them in Plays after setup.
+This one needs a detail we can’t work out for you. Finish it on its setup page, then come back here.
+This page took a detour.
+This request goes 1 day after the like.
+This sample exceeds the activation lead limit.
+This sequence already has people moving through it, so its channels can no longer switch between one-after-another and side-by-side. Create a new sequence for that.
+This sequence is no longer a draft. Its channel has been restored.
+This sequence is no longer available. Refresh the page to continue.
+This workspace can't add leads right now. Check your plan in Settings.
+This workspace has already used its trial. Your setup is saved, so you can continue where you left off once billing is active.
+Tick the Gmail box on Google's last screen so PumpGTM can send and see replies.
+Tightening the wording
+To invite only recently active people, turn on “Check for activity in last 30 days” in this Play.
+Too many attempts. Wait 15 minutes before trying again.
+Top up Energy
+Trusted by the top startups in SF
+Try Google again 
+Try Microsoft again 
+Try again to pick up where you left off.
+Try the search again. Your setup is saved.
+Turn off to review each person before they join a campaign.
+Turn on 2-Step Verification
+Turning them into campaigns
+Type PumpGTM as the app name and click Create.
+Typically 1 in 5 accept your request, and 1 in 7 of them reply.
+Undoing move
+Unexpected error in challenge
+Unexpected error in register
+Unfollow if no follow-back
+Unfollow if they have not followed back
+Unfollow on X
+Unique user id has not been set in posthog.identify
+Unknown JavaScript runtime without WebSocket support.
+Unknown country: 
+Unknown error
+Unsaved changes
+Upload a list, even emails only.
+Upload past signups
+Upload your leads
+Use Cloudflare Workers WebSocket API for server-side WebSocket handling, or deploy to a different runtime.
+Use a verification code instead
+Use another account
+Use serverless functions or a different deployment target for WebSocket functionality.
+Use the browser where you are already logged in to LinkedIn.
+Use this example
+Use this inbox and continue
+Use your password or a one-time code.
+Using AI to run founder-led outbound for 10 YC companies
+Using Sales Navigator?
+Using an older version of the feature flags endpoint. Please upgrade your PostHog server to the latest version
+VPs of engineering at Series A to C fintech startups
+Validation failed but no issues detected.
+Variant results are temporarily unavailable.
+Venture backed
+Verification code
+Verify code and sign in
+Video · watch it on LinkedIn
+View LinkedIn profile
+View existing leads
+View manual instructions
+View profile
+Visit their profile
+Warm-up data unavailable
+Watch your trial walkthrough
+We could not sign you in. Check your connection and try again.
+We could not verify checkout. Please start the trial again.
+We couldn't check this location yet.
+We couldn't check your approval. If you've tapped Yes, check again.
+We couldn't deliver email to 
+We couldn't find matching leads yet
+We couldn't match this location. Edit to fix it.
+We couldn't tell which posts to watch from what you sell.
+We couldn’t apply the offer. Please try again.
+We couldn’t check the connection. 
+We couldn’t load your setup
+We find companies like this one, then the right people at each.
+We find similar companies, then the right people at each.
+We find these people and reach them with your message.
+We follow your buyers on X, then DM the ones who follow back.
+We found you 
+We haven’t confirmed the result yet. Retry to finish the same save.
+We message connections who match your target audiences.
+We place a temporary $1 card hold and release it immediately. Go back to your chat and your AI picks up where you left off.
+We place a temporary $1 card hold and release it immediately. Once Stripe confirms your billing details, connect LinkedIn to begin the approved connection requests to your YC investor list.
+We reach everyone on your list.
+We reach people your connections know.
+We research your example and find people for you to review. You choose their messages after.
+We send from your account through a residential proxy near you, only during working hours, with a warm-up ramp and daily caps, and every action is spaced at irregular intervals. Nothing goes out at robotic pace.
+We sent a one-time code to 
+We stopped sending decks before first calls. A two-minute walkthrough video goes out instead, and meetings now start with real questions rather than slides.
+We tried a short video before first calls too, and the people who watched it came in with much better questions.
+We use your site to find your buyers.
+We watch for posts about what you solve.
+WebAuthn ceremony failed
+WebPerformanceObserver is deprecated and has no impact on network capture. Use `_forceAllowLocalhostNetworkCapture` on `posthog.sessionRecording`
+WebSocket not supported in this environment.
+Webinar or workshop
+Welcome back
+We’ll email you a one-time code to choose a new password.
+We’ll find the buyers for you
+We’re trusted by the best startups in SF and Y Combinator
+What a $4B insurer teaches a founder with ten customers.
+What actually saves time, and the system we built around it.
+What founders are reading on X
+What gets better for the customer?
+What happens after checkout?
+What happens when you start your PumpGTM trial
+What people sign up for
+What people sign up for. Each follow-up mentions it.
+What shapes your audience suggestions
+What the company does
+What you sell
+What you sell:
+WhatsApp follow-up
+WhatsApp message
+When is the first charge?
+When is your product the better choice?
+When someone replies
+When this runs
+Where people sign up
+Which payment methods can I use?
+Who do you sell to?
+Who do you want to reach?
+Who provides email for this address?
+Who receives this X DM
+Who this campaign reaches. Messages are written after setup.
+Who to reach
+Why do you need a card for a free trial?
+Why switch if they have already paid?
+Why they would buy
+Why they'd buy, in a line
+Will I get leads during the trial?
+Will anything send without my approval?
+Will outreach start automatically?
+Windows Phone
+Work with leads, sequences and replies from Claude, Cursor, Codex or ChatGPT.
+Workers.io tests its message with real engineering leaders before the whole team joins
+Working out who buys from you
+Workspace access could not be verified. Reload the page and try again.
+Write it myself
+Write my own
+Write the comment before approving it.
+Write the selected message before saving.
+Write with AI
+Write your email…
+Write your message…
+Writing the follow-up
+Written for each post
+X direct message
+X images up to 5 MB, videos up to 50 MB
+X opens in a new tab. Allow access there, then come back: this page moves on by itself.
+Y Combinator Fall 2026
+Y Combinator Spring 2026
+Y Combinator Summer 2020
+Y Combinator Summer 2026
+Y Combinator Winter 2021
+Y Combinator Winter 2024
+Y Combinator Winter 2026
+Yes as soon as it happens, no when the wait ends
+Yes, after you connect LinkedIn. Choosing the YC investor flow approved this curated list and its connection requests, but billing and a connected sending account are both required first.
+Yes. Choosing the YC investor flow approved this curated list and its connection requests. Once Stripe confirms billing, outreach starts automatically from your connected LinkedIn account.
+Yes. Request a full refund from Billing within 24 hours of a subscription charge. A refund cancels the subscription and ends paid access. You can also cancel during your seven-day trial before any subscription payment is collected.
+You add per person
+You can close this tab.
+You can continue while we finish looking.
+You can not have a '_next' folder inside of your public folder. This conflicts with the internal '/_next' route. https://nextjs.org/docs/messages/public-next-folder-conflict
+You can not use getInitialProps with getServerSideProps. Please remove getInitialProps.
+You can not use getInitialProps with getStaticProps. To use SSG, please remove your getInitialProps
+You can not use getStaticProps or getStaticPaths with getServerSideProps. To use SSG, please remove getServerSideProps
+You have already initialized PostHog! Re-initializing is a no-op
+You have unsaved edits from this tab.
+You're all set
+Your 1 buyer is ready
+Your AI assistant will navigate your browser and ask permission before opening Google Workspace admin settings.
+Your AI connection is upgraded
+Your Google Workspace administrator needs to allow PumpGTM before you can connect.
+Your Google Workspace policy blocked this connection. Ask your administrator to review PumpGTM’s access using the steps below.
+Your LinkedIn connections
+Your `getServerSideProps` function did not return an object. Did you forget to add a `return`?
+Your `getStaticProps` function did not return an object. Did you forget to add a `return`?
+Your app or Zapier
+Your audience choices
+Your audience could not be saved. Try again.
+Your bank declined our $1 card check for insufficient funds, so your trial did not start and you were not charged. Start the trial again with a different card.
+Your business details are saved. Reload to continue setup.
+Your buyers for 
+Your campaign is saved
+Your campaigns
+Your campaigns start as soon as their accounts are connected.
+Your campaigns will open for review when they’re ready.
+Your choices are saved. Connect LinkedIn to add the people you selected.
+Your company details changed. Reload this page and try again.
+Your company details changed. Reload this page before saving.
+Your company details could not be loaded. Try again.
+Your competitors' customers
+Your competitors' engagers
+Your connections could not be queued. Please try again.
+Your draft was empty, so Direct is selected. Review its messages before approving.
+Your email isn’t confirmed yet
+Your first connection request will begin automatically. You can leave this page.
+Your free trial includes one LinkedIn account. To add more, the workspace owner can start the paid plan on Billing.
+Your message
+Your messages go out from your own LinkedIn, email or X account. Connect one so outreach can start.
+Your outreach is running
+Your outreach sequence
+Your plan for
+Your previous trial or subscription is no longer active.
+Your selected leads could not be added yet. Please try again.
+Your session ended. Sign in again, then retry the import.
+Your session expired. Refresh this page to sign in again.
+Your setup changed in another tab. Review the latest version.
+Your setup is saved
+Your setup is saved. Try the search again.
+Your setup is saved. You can connect an account from Overview later.
+Your seven-day free trial is still available with a temporary $1 card hold today, released immediately, then $75/month.
+Your target buyers
+Your website could not be saved. Try again.
+Your website or audience changed. Review your updated setup to prepare a new campaign. Your previous draft is saved.
+Your workspace could not be created. Try again shortly.
+You’ll connect LinkedIn securely before anything starts.
+[Error tracking]
+[SessionRecording] started without valid sessionManager. This is a bug.
+[Web Vitals]
+[object DOMError]
+[object DOMException]
+[object Exception]
+[object Float32Array]
+[object Float64Array]
+[object Int16Array]
+[object Int32Array]
+[object Object]
+[object Uint16Array]
+[object Uint32Array]
+[object Uint8Array]
+[object Uint8ClampedArray]
+[object WebAssembly.Exception]
+\" failed. Feature flags didn't load in time.
+],[/^Enter your full email address/i,
+],[/^Please agree to the Terms/i,
+],[/company setup could not be completed/i,
+],[/could not save your agreement/i,
+],[/could not verify checkout/i,
+],[/isn.t confirmed|Confirm your email/i,
+],[/rate limit|too many|security purposes/i,
+],[/valid company website/i,
+],[/workspace for this company already exists/i,
+`loaded` function failed
+`unstable_isUnrecognizedActionError` can only be used on the client.
+a LinkedIn endorsement
+a LinkedIn message
+a Non-Webauthn related error has occurred
+abort canplay canplaythrough durationchange emptied encrypted ended error loadeddata loadedmetadata loadstart pause play playing progress ratechange resize seeked seeking stalled suspend timeupdate volumechange waiting
+absolute -bottom-3.5 -right-3.5 grid h-12 min-w-12 place-items-center px-2 rounded-xl border border-white/15 bg-black
+absolute inset-0 inline-flex items-center justify-center font-semibold text-white/90
+absolute inset-0 size-8 -rotate-90
+absolute inset-0 z-10 flex min-h-0 min-w-0 flex-col border-line bg-surface @min-[52rem]/sequence-canvas:static @min-[52rem]/sequence-canvas:border-l
+absolute inset-y-0 right-0 w-12 border-0 text-muted focus-visible:ring-inset
+absolute left-6 top-6 w-max origin-top-left
+absolute right-1 top-1 size-8 active:scale-100
+absolute top-0 left-0 font-serif text-[1.9em] leading-none text-primary
+add an inbox
+add the account
+added in Waiting for you
+additions text
+adopted cross-tab session id
+and acknowledge our
+applying feature flags
+argument should be a Buffer
+auth-button static h-13 w-full
+base64-encoded string
+base64url-encoded string
+better uptime bot
+bg-danger text-primary-foreground hover:bg-danger/90
+bg-info-soft text-primary-hover
+bg-ok-soft text-ok
+bg-warn-soft text-warn
+block rounded-lg border px-3 py-2.5
+block text-sm font-medium text-ink
+border border-line bg-surface-2 text-ink hover:border-ink/25 hover:bg-surface-3
+border border-line bg-surface-3 text-ink
+border border-line-soft bg-transparent text-muted hover:border-line hover:text-ink hover:bg-surface-2
+border border-line-strong
+border border-transparent text-muted hover:bg-surface-2 hover:text-ink
+border-2 border-ok border-t-transparent animate-spin
+border-b border-line bg-surface px-4 py-3 text-sm text-danger
+border-b border-line px-3 py-2 text-sm text-danger
+border-b border-line px-4 py-3 text-sm text-danger
+border-info bg-info/[0.08] hover:bg-info/[0.08]
+border-line bg-bg
+border-line bg-ink/5 text-ink
+border-line bg-surface-2 hover:border-primary/40
+border-line hover:border-line-strong
+border-line hover:border-muted
+border-line text-muted
+border-line-strong bg-bg
+border-primary bg-primary text-primary-foreground
+border-primary bg-primary/10 ring-1 ring-primary
+border-primary text-ink
+border-transparent text-muted hover:text-ink
+can not be attached to a page's component and must be exported from the page. See more info here: https://nextjs.org/docs/messages/gssp-component-member
+can not have getInitialProps/getServerSideProps, https://nextjs.org/docs/messages/404-get-initial-props
+change click focusin focusout input keydown keyup selectionchange
+channel onMessage callbacks must return the payload, modified or unmodified
+clearing window.location.hash
+compositionend focusout keydown keypress keyup mousedown
+compositionstart focusout keydown keypress keyup mousedown
+compositionupdate focusout keydown keypress keyup mousedown
+config refresh failed, recording will not start until page reload
+connect LinkedIn
+connected to primary after
+connection acceptance
+connection requests
+could not load recorder
+could not read FormData body as blob
+credit card number
+cross-tab refresh kept the session alive
+currency code
+cursor-pointer text-sm font-medium text-ink
+deferred disconnect fired - no channels, disconnecting
+detected session in URL
+direct messages
+disconnecting immediately - no channels
+document, image or MP4
+dropping outdated message
+email address
+email up to 18 MB, 1.5 MB from Microsoft mailboxes
+error detecting session from URL
+error in heartbeat callback
+error waiting for auth on connect
+especially the multichannel outreach
+evaluation_environments is deprecated. Use evaluation_contexts instead. evaluation_environments will be removed in a future version.
+everyone on this step
+evicted oldest pending PKCE verifier slot
+exactly the right leads
+failed to load script
+failed to start
+fill-none stroke-primary-foreground
+find 50 people like our best customer and start a campaign
+flex flex-col gap-2 text-center sm:text-left
+flex flex-col items-center gap-2 text-sm text-muted
+flex flex-col items-center gap-3 py-12 text-center
+flex flex-col rounded-xl border p-4 text-left transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/45 @lg:p-6
+flex flex-col-reverse gap-2 sm:flex-row sm:justify-end
+flex flex-wrap gap-1
+flex flex-wrap gap-1 border-b border-line px-2 pt-2
+flex items-center gap-1
+flex items-center gap-2 text-ok
+flex items-center gap-2 text-xs text-muted sm:gap-5 sm:text-sm
+flex items-center gap-3 sm:gap-5
+flex rounded-lg border border-line p-0.5
+flex shrink-0
+flex-1 justify-between sm:gap-6
+flex-wrap gap-y-2
+flush interval
+focusout contextmenu dragend focusin keydown keyup mousedown mouseup selectionchange
+font-medium text-ink underline underline-offset-4
+for every new browser tab or window
+from an HMR update
+google favicon
+google web preview
+greater than 
+grid auto-cols-fr grid-flow-col gap-1 rounded-[10px] border border-line p-1
+grid content-start gap-1 lg:hidden
+grid content-start gap-1 md:hidden
+grid gap-2 py-3
+grid place-content-center text-current transition-none
+grid size-full place-items-center rounded-lg bg-surface-2
+grid w-full grid-cols-1 gap-4 sm:gap-6
+group absolute inset-0 block h-full w-full focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/45
+group flex flex-col items-center gap-3 text-white opacity-85 transition hover:opacity-100
+group flex flex-col overflow-hidden rounded-lg border border-line bg-surface transition ease-snap hover:border-primary/50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/45 active:scale-[0.99]
+group mt-4 block
+h-1.5 overflow-hidden rounded-full bg-surface-3
+h-10 rounded-[10px] border-line bg-bg px-3 text-base
+h-10 w-auto gap-2 rounded-[10px] border px-3 text-sm font-medium transition-colors hover:bg-surface-2
+h-10 w-auto rounded-[10px] border px-3.5 text-sm font-medium transition-colors hover:bg-surface-2
+h-11 w-11 shrink-0 hover:border-danger/40 hover:bg-danger/[0.08] hover:text-danger focus-visible:ring-danger/45 sm:w-auto sm:px-3
+h-11 w-full sm:w-72
+h-11 w-full text-lg font-medium
+h-12 w-auto max-w-[160px]
+h-12 w-full rounded-md border border-line bg-surface px-4 text-base
+h-13 px-6 text-base font-semibold
+h-13 w-full rounded-[1rem]
+h-3.5 w-auto max-w-16
+h-40 resize-none text-sm
+h-6 w-44 border-transparent bg-transparent px-1 text-xs hover:border-line focus:bg-surface
+h-6 w-auto max-w-[130px]
+h-7 w-auto max-w-[130px]
+h-8 w-64 max-w-full rounded-[10px]
+h-8 w-auto max-w-[130px]
+h-9 text-muted hover:text-ink
+h-auto min-h-11 whitespace-normal py-2
+h-auto min-h-7 max-w-full whitespace-normal px-2.5 py-1 text-left
+h-auto min-h-9 max-w-full whitespace-normal text-center text-xs
+h-auto min-w-0 whitespace-normal rounded-[4px] px-2 py-2 text-sm font-medium [overflow-wrap:normal]
+h-auto w-full justify-start rounded-none text-left whitespace-normal text-muted hover:bg-surface-2 active:scale-100
+h-auto w-full max-w-md rounded-lg border border-line
+h-full w-full object-contain
+h-full w-full object-cover
+heartbeat timeout
+heartbeat timeout. Attempting to re-establish connection
+hidden lg:inline-flex
+hidden w-full self-center lg:block
+hidden w-full self-center md:block
+how easy it is to hook up different accounts
+image, GIF or MP4
+in not contained inside
+init was not called
+inline h-auto px-1.5 py-0 align-baseline text-sm leading-5
+inline-block h-6 w-14 border-transparent bg-transparent px-1 text-right text-xs tabular-nums hover:border-line focus:bg-surface [appearance:textfield] [&::-webkit-inner-spin-button]:appearance-none
+inline-flex cursor-pointer items-center justify-center gap-1.5 rounded-md text-sm font-medium whitespace-nowrap transition-[background,border-color,color,transform] duration-150 ease-snap active:scale-[0.97] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/45 disabled:opacity-50 disabled:pointer-events-none [&_svg]:size-3.5 [&_svg]:shrink-0
+inline-flex items-center gap-1 rounded-sm text-base font-medium text-ink underline-offset-4 hover:underline focus-visible:outline-2 focus-visible:outline-primary
+inline-flex items-center gap-1 underline-offset-2 hover:text-ink hover:underline
+inline-flex min-w-0 flex-1 items-center gap-1.5 rounded-sm text-base font-medium text-ink hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/45
+inline-flex min-w-0 max-w-full items-center gap-1.5 rounded-sm hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/45
+inline-flex shrink-0 items-center gap-1.5 align-middle
+invariant expected app router to be mounted
+invariant expected layout router to be mounted
+invariant global layout router not mounted
+invisible pointer-events-none
+is PKCE flow
+it finds in minutes what would take my team hours
+it reaches and the messages it
+justify-items-end text-right
+justify-start text-danger hover:text-danger
+like and comment on their post
+like their post
+linkedin url
+lock acquired for storage key
+lock released for storage key
+max-h-[85dvh] overflow-y-auto sm:max-w-2xl
+max-h-[90dvh] overflow-y-auto text-ink
+max-w-xl text-balance text-2xl font-semibold tracking-tight text-ink max-[360px]:text-xl sm:text-3xl
+mb-1.5 block text-sm font-medium
+mb-1.5 block text-sm font-medium text-ink
+mb-1.5 min-h-8 w-full px-2 text-sm
+mb-3 flex flex-wrap items-center justify-end gap-3
+mb-5 flex items-center justify-center
+mb-8 flex flex-col gap-3 rounded-md border border-warn/40 bg-warn/10 px-4 py-3 sm:flex-row sm:items-center sm:justify-between
+mb-8 w-full max-w-sm
+min-h-0 resize-none rounded-none border-0 border-t border-line bg-transparent px-3.5 py-2.5 text-sm leading-5 text-muted shadow-none placeholder:text-faint focus:ring-0 focus-visible:ring-0
+min-h-0 w-full resize-none rounded-xl border-0 bg-surface-2 px-3.5 py-2 text-sm leading-6 text-ink shadow-none placeholder:text-faint focus:ring-2 focus:ring-primary/45
+min-h-6 w-full max-w-sm resize-y border-transparent bg-transparent px-1 py-0.5 text-xs hover:border-line focus:bg-surface
+min-h-8 w-full px-2.5 text-sm
+min-w-0 border-t border-line bg-surface p-3
+min-w-0 flex-1 text-base font-medium leading-5
+min-w-0 rounded-xl border border-line p-2 sm:p-3
+min-w-0 text-sm font-medium leading-5 text-ink
+mismatch between server and client bindings for postgres changes
+module evaluation
+mr-auto text-xs text-muted
+mt-0.5 px-0 text-sm font-medium text-muted hover:bg-transparent hover:text-ink
+mt-1.5 w-full rounded-lg border border-line bg-bg px-3 py-3 text-sm text-ink outline-none focus-visible:ring-2 focus-visible:ring-primary/45
+mt-2 grid gap-2
+mt-2 px-4 py-3 text-base leading-relaxed
+mt-2 text-base leading-6 text-muted
+mt-2 text-center text-sm leading-5 text-muted
+mt-3 block max-h-[28rem] overflow-hidden rounded-md border border-line-soft
+mt-3 flex items-center justify-center gap-1
+mt-3 flex min-w-0 overflow-hidden rounded-md border border-line-soft bg-surface-2 transition-colors hover:border-line
+mt-3 h-4 w-80 max-w-full rounded-[10px]
+mt-3 rounded-md bg-danger-soft px-3 py-2.5 text-sm text-danger
+mt-3 text-base leading-6 text-balance text-ink
+mt-4 grid gap-3 sm:mt-6 sm:gap-6
+mt-4 rounded-lg border border-danger/25 bg-danger/5 px-3 py-3
+mt-5 rounded-[14px] border border-line-soft bg-surface-2 p-4
+mt-5 w-full text-center
+mt-6 grid min-w-0 grid-cols-1 gap-8
+mx-auto block h-9 w-72 max-w-full animate-pulse rounded bg-surface-2 sm:h-10
+mx-auto flex h-11 w-auto border-0 px-4
+mx-auto flex h-11 w-auto border-0 px-4 text-sm text-muted hover:text-ink
+mx-auto flex w-full max-w-[32rem] flex-col items-center text-center gap-10 sm:gap-12
+mx-auto grid w-full max-w-md justify-items-center gap-6
+mx-auto max-w-lg
+mx-auto min-w-0 w-full max-w-2xl [overflow-wrap:anywhere]
+mx-auto mt-6 flex size-9 items-center justify-center rounded-full bg-danger/10 text-sm font-semibold text-danger
+mx-auto size-8 rounded-md bg-white p-1
+my-auto py-4 sm:py-8
+new session ID assigned
+no channels remaining, scheduling disconnect
+no per-cake limit
+noopener noreferrer
+noreferrer noopener
+not a slop list
+object-cover object-[50%_30%]
+object-cover transition duration-300 ease-snap group-hover:scale-[1.02]
+object-cover transition duration-300 ease-snap group-hover:scale-[1.03]
+on every page load
+on_xhr_error is deprecated. Use on_request_error instead
+onboarding-cta mt-6
+only people who followed back
+options was missing required publicKey property
+or click to browse
+or paste CSV text
+overflow-auto bg-transparent outline-none focus-visible:ring-2 focus-visible:ring-primary/45
+override is deprecated. Please use overrideFeatureFlags instead.
+pages with `getServerSideProps` can not be exported. See more info here: https://nextjs.org/docs/messages/gssp-export
+pending disconnect cancelled - channel activity detected
+persisted remote config is stale, requesting fresh config before starting
+ph-no-capture min-w-40 flex-1 bg-transparent px-1 py-1 text-sm text-ink outline-none placeholder:text-faint
+pointer-events-none absolute inset-0 w-full whitespace-pre-wrap break-words px-3 py-2 leading-relaxed
+pointer-events-none absolute right-2.5 size-3.5 text-faint
+pointer-events-none opacity-0 motion-safe:duration-200
+provided flowId is not a valid flow id
+py-8 text-center text-muted
+redirect type
+refresh already in flight, skipping
+registered callback with id
+relative bg-transparent
+relative flex items-start justify-center gap-10
+relative flex size-8 shrink-0 items-center justify-center text-primary
+relative h-1.5 min-w-0 flex-1 overflow-hidden rounded-full bg-surface-3
+relative min-h-9 rounded-[6px] px-2 py-1.5 transition-colors sm:px-4
+relative rounded-[10px] p-1
+ring-1 ring-warn ring-offset-1 ring-offset-bg
+ring-2 ring-meeting ring-offset-1 ring-offset-bg
+rounded-[10px] border border-line bg-bg transition-[border-color,box-shadow] focus-within:border-primary/70 focus-within:ring-2 focus-within:ring-primary/45
+rounded-[14px] border border-line bg-surface p-4 text-sm leading-5
+rounded-[14px] border-line bg-surface
+rounded-full border border-dashed border-line-soft px-1.5 py-0.5 text-xs text-faint hover:text-ink
+rounded-md bg-danger-soft px-3 py-2.5 text-sm text-danger
+rounded-md bg-ok-soft px-3 py-2.5 text-sm text-ok
+rounded-xl border border-line bg-surface p-6
+sanitize_properties is deprecated. Use before_send instead
+screaming frog
+scroll-mt-4 pt-6 outline-none lg:col-span-2
+sender first name
+session from storage
+session from storage is not valid
+shrink-0 object-contain grayscale
+signin-code-help signin-code-error
+signin-shell flex flex-col bg-bg text-ink
+size-10 rounded-full bg-surface-2
+size-11 rounded-full shadow-md [&_svg]:size-5
+size-4 fill-primary text-primary
+size-6 rounded-full ring-2 ring-bg
+size-8 rounded-full border-0 text-muted hover:bg-surface-2 hover:text-ink [&_svg]:size-4
+size-9 shrink-0 rounded-full object-cover
+skipping persistence write because storage belongs to a different distinct ID
+smaller than
+smol machines
+starting default worker
+state change callback with id removed
+static h-13 w-full px-3
+static mx-auto flex h-13 w-full px-3 sm:max-w-[18rem]
+step 0 must be connect
+steps required
+stringify detection
+subject or body
+survey dismissed
+survey shown
+terminating worker
+text-3xl font-semibold tracking-tight text-balance text-ink
+text-center text-3xl font-semibold tracking-tight text-balance text-ink sm:text-4xl
+text-lg leading-none font-semibold
+text-muted hover:text-ink
+text-muted tabular-nums
+text-primary-foreground hover:bg-transparent hover:text-primary-foreground
+text-xs font-medium uppercase tracking-wide text-muted
+the linked Play
+the replies are already turning into calls
+they reach and the messages they
+toaster group
+too much recursion
+transition hover:text-ink
+turbopack error
+turbopack exports
+underline underline-offset-2
+underline underline-offset-2 hover:text-ink
+updating activated items
+upload the list
+used outside of an acquired lock!
+v1 of the feature flags endpoint is deprecated. Please use the latest version.
+w-full justify-start
+w-full justify-start border-0
+w-full max-w-lg
+w-full max-w-xs text-left
+w-full resize-none rounded-lg border border-line bg-surface px-3 py-2.5 font-mono text-xs leading-5 text-ink outline-none placeholder:font-sans placeholder:text-sm placeholder:text-faint focus-visible:ring-2 focus-visible:ring-primary/45
+w-full rounded-lg border border-line bg-bg px-3 py-3 text-sm text-ink outline-none focus-visible:ring-2 focus-visible:ring-primary/45
+w-full rounded-md border border-line bg-bg px-3 py-2.5 text-sm outline-none transition placeholder:text-faint focus:border-primary focus:ring-2 focus:ring-primary/20
+w-full text-center
+we run gtm for 10 YC companies. here’s what we learned using AI to automate founder-led outbound
+without a match skipped
+worker error
+xxxx xxxx xxxx xxxx
+your business
