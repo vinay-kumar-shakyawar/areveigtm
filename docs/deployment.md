@@ -4,8 +4,8 @@
 
 | Process | Image target | Purpose |
 |---|---|---|
-| `web` | `Dockerfile` target `web` (Next.js standalone) | UI + API, runs `prisma migrate deploy` on start |
-| `worker` | `Dockerfile` target `worker` | pg-boss worker: campaign ticks, inbox polling, webhook retries |
+| `web` | `Dockerfile` (Next.js standalone; the default/last stage) | UI + API, runs `prisma migrate deploy` before start |
+| `worker` | `Dockerfile.worker` | pg-boss worker: campaign ticks, inbox polling, webhook retries |
 | `postgres` | `postgres:16` | the only required dependency |
 
 `docker-compose.yml` wires these plus Mailpit (local SMTP sink). One instance of each is enough for a small team; run several `web` replicas behind a load balancer only after moving the rate limiter to a shared store.

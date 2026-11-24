@@ -25,7 +25,6 @@ services:
   web:
     build:
       context: .
-      target: web
     env_file: .env
     environment:
       DATABASE_URL: postgresql://arevei:arevei@postgres:5432/arevei_gtm
@@ -35,12 +34,12 @@ services:
     depends_on:
       postgres:
         condition: service_healthy
-    command: sh -c "npx prisma migrate deploy && node server.js"
+    command: sh -c "node node_modules/prisma/build/index.js migrate deploy && node server.js"
 
   worker:
     build:
       context: .
-      target: worker
+      dockerfile: Dockerfile.worker
     env_file: .env
     environment:
       DATABASE_URL: postgresql://arevei:arevei@postgres:5432/arevei_gtm

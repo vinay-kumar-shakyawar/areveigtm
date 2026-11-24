@@ -1,4 +1,8 @@
 # syntax=docker/dockerfile:1.7
+# Web image (Next.js standalone). The last stage is the default target, so a
+# plain `docker build .` and hosts that cannot pick a stage (Railway) get the
+# web server. The worker lives in Dockerfile.worker; docker-compose selects
+# stages explicitly via `target:`.
 FROM node:22-alpine AS base
 WORKDIR /app
 ENV NEXT_TELEMETRY_DISABLED=1
@@ -25,12 +29,7 @@ COPY --from=build /app/node_modules/prisma ./node_modules/prisma
 COPY --from=build /app/node_modules/@prisma ./node_modules/@prisma
 USER app
 EXPOSE 3000
-HEALTHCHECK --interval=30s --timeout=5s CMD wget -qO- http://127.0.0.1:3000/api/health || exit 1
+HEALTHCHECK --interval=30s --timeout=5s CMD wget -qO- http://127.0.0.1:${PORT:-3000}/api/health || exit 1
+# Migrations: the standalone bundle has no node_modules/.bin, so call the
+# Prisma CLI entrypoint directly (also used as Railway's pre-deploy command).
 CMD ["node", "server.js"]
-
-# --- Worker ------------------------------------------------------------------
-FROM deps AS worker
-ENV NODE_ENV=production
-COPY . .
-RUN npx prisma generate
-CMD ["npx", "tsx", "--tsconfig", "tsconfig.worker.json", "src/worker/index.ts"]

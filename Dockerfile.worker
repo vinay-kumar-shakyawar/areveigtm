@@ -1,0 +1,20 @@
+# syntax=docker/dockerfile:1.7
+# pg-boss worker image. Kept as a separate file (rather than a stage in
+# Dockerfile) so hosts that build one Dockerfile per service with no stage
+# selection, such as Railway, can point the worker service at this file
+# (RAILWAY_DOCKERFILE_PATH=Dockerfile.worker). docker-compose builds it via
+# `dockerfile: Dockerfile.worker`.
+FROM node:22-alpine AS base
+WORKDIR /app
+ENV NEXT_TELEMETRY_DISABLED=1
+
+FROM base AS deps
+COPY package.json package-lock.json ./
+COPY prisma ./prisma
+RUN npm ci
+
+FROM deps AS worker
+ENV NODE_ENV=production
+COPY . .
+RUN npx prisma generate
+CMD ["npx", "tsx", "--tsconfig", "tsconfig.worker.json", "src/worker/index.ts"]
