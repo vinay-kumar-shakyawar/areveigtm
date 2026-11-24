@@ -1,0 +1,53 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: arevei
+      POSTGRES_PASSWORD: arevei
+      POSTGRES_DB: arevei_gtm
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U arevei -d arevei_gtm"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  mailpit:
+    # Local SMTP sink for development. Nothing leaves the machine.
+    image: axllent/mailpit:latest
+    ports:
+      - "8025:8025"
+      - "1025:1025"
+
+  web:
+    build:
+      context: .
+      target: web
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://arevei:arevei@postgres:5432/arevei_gtm
+      APP_BASE_URL: http://localhost:3000
+    ports:
+      - "3000:3000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    command: sh -c "npx prisma migrate deploy && node server.js"
+
+  worker:
+    build:
+      context: .
+      target: worker
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://arevei:arevei@postgres:5432/arevei_gtm
+      APP_BASE_URL: http://localhost:3000
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+volumes:
+  pgdata:

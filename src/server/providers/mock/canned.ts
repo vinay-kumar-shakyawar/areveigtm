@@ -1,0 +1,85 @@
+/**
+ * Canned structured responses for the mock LLM, keyed by the `purpose` a
+ * module passes. They let the whole product run end-to-end in development
+ * without any real AI key. Everything is clearly fake and labelled "mock".
+ */
+const factors = (evidence: string) => [
+  { factor: "Title matches ICP (mock)", weight: 0.4, evidence, contribution: 30 },
+  { factor: "Company size in range (mock)", weight: 0.3, evidence: "headcount from record", contribution: 20 },
+  { factor: "Geography (mock)", weight: 0.3, evidence: "location from record", contribution: 15 },
+];
+
+export const cannedByPurpose: Record<string, unknown> = {
+  "company.draft": {
+    companyName: "Mock Example Corp",
+    description: "Mock Example Corp builds go-to-market software for B2B teams (mock draft generated without a real AI provider).",
+    productOrService: "GTM platform: find buyers, research them, run multichannel outreach.",
+    industry: "Software",
+    businessModel: "B2B SaaS",
+    targetGeography: ["UAE", "Saudi Arabia", "United Kingdom"],
+    targetCustomerType: "Founders and heads of growth at B2B companies",
+    valueProposition: "Reach the right buyers faster from your own accounts.",
+    competitors: [{ name: "Mock Competitor" }],
+    existingCustomers: [{ name: "Acme Robotics" }, { name: "Globex" }],
+    evidence: [{ field: "description", quote: "builds go-to-market software for B2B teams", sourceUrl: "https://example.com" }],
+    notes: "Mock provider: values are illustrative.",
+  },
+  "icp.extract": {
+    name: "Mock ICP: growth leaders",
+    criteria: {
+      version: 1,
+      titles: ["Head of Growth", "VP Marketing", "Founder"],
+      excludeTitles: ["Intern"],
+      seniorities: ["Head", "VP", "Owner / Founder"],
+      functions: ["Marketing", "Growth", "Executive"],
+      industries: ["Software", "Ecommerce"],
+      excludeIndustries: [],
+      geographies: ["UAE"],
+      countries: ["AE"],
+      companySize: { min: 10, max: 200 },
+      revenue: { min: null, max: null },
+      technologies: [],
+      companyCharacteristics: ["Sells to other businesses"],
+      exclusions: ["Agencies"],
+      buyingSignals: ["Hiring growth or marketing roles"],
+      preferredChannels: ["email", "linkedin"],
+      keywords: [],
+    },
+    rationale: "Mock extraction: criteria mirror the description's roles, geography and size.",
+    ambiguities: ["Whether 'growth' includes product-led growth roles"],
+  },
+  "lead.research": {
+    whoIsThisPerson: "A marketing leader at a mid-sized B2B company (mock research).",
+    whatCompanyDoes: "The company sells software to other businesses (mock).",
+    whyTheyMightNeedUs: "They are growing their outbound function and lack a system for finding buyers (mock).",
+    likelyChallenges: ["Building pipeline without a sales team", "Low reply rates on generic outreach"],
+    signalsFound: [{ signal: "Hiring a growth role (mock)", evidence: "mock signal", observed: true }],
+    evidence: [{ claim: "Title from contact record", source: "contact record" }],
+    bestAngle: "Their current hiring suggests outbound is a priority this quarter.",
+    bestChannel: "email",
+    suggestedOpener: "You're hiring for growth, which usually means pipeline is the constraint; is that the case for you right now?",
+    suggestedValueProp: "Find and reach the right buyers from your own accounts without adding headcount.",
+    nextAction: "Send a short email and follow up on LinkedIn in three days.",
+    scores: { icpFit: { score: 72, factors: factors("title from record") }, intent: { score: 48, factors: factors("one observed signal") }, quality: { score: 61, factors: factors("email present") } },
+    confidence: 0.55,
+    gaps: ["Revenue unknown", "No recent posts reviewed"],
+  },
+  "message.generate": {
+    subject: "Quick question about your growth hiring",
+    body: "Hi {{firstName}},\n\nNoticed you're hiring for growth. When teams do that, finding the right buyers usually becomes the bottleneck before writing does.\n\nWould it be useful to see how we find and reach buyers from your own accounts? Happy to share a two-minute walkthrough.\n\n(mock draft)",
+    reasoning: "Mock draft referencing an observed hiring signal.",
+    personalizationUsed: ["hiring signal"],
+    risks: [],
+  },
+  "reply.classify": {
+    classification: "question",
+    confidence: 0.6,
+    summary: "The prospect asked a clarifying question (mock).",
+    sentiment: "neutral",
+    recommendedAction: "reply",
+    draft: "Thanks for the question. The short answer is yes; happy to show you in a 15-minute call. Would Tuesday work? (mock draft)",
+    nextAction: "Reply and offer a time.",
+    proposedTimes: [],
+    questions: ["Does this integrate with our tools?"],
+  },
+};

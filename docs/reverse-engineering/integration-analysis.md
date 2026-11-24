@@ -237,7 +237,7 @@ export interface LinkedInProvider {
 - OBSERVED: missing email → "PumpGTM skips the email steps for that lead" `[ev §6]`; email file limit 18 MB, 1.5 MB from Microsoft mailboxes `[ui:1336]`.
 - OBSERVED: "Buy domain & inboxes" `[ui:199]` — vendor unknown.
 
-**(b) Surfaced.** Accounts page → "Connect email" / "Connect mailbox" with three cards (Gmail/Google Workspace, Microsoft, Any provider) `[ui:284-285,512,142]`; per-sequence `sequence_email_settings` (inboxes, schedule, daily limit, footer) `[model §1.5]`.
+**(b) Surfaced.** Accounts page → "Connect email" / "Connect mailbox" with three cards (Gmail/Google Workspace, Microsoft, Any provider) `[ui:284-285,512,157]`; per-sequence `sequence_email_settings` (inboxes, schedule, daily limit, footer) `[model §1.5]`.
 
 **(c) Rules/limits.** Per-mailbox daily limits and windows; one thread per prospect; unsubscribe link or List-Unsubscribe headers; reply stops the person's sequence across channels `[ev §6]`.
 
