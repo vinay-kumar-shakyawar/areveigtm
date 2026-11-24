@@ -1,0 +1,13 @@
+{
+  // Used only by `npm run worker` / `npm run dev:worker` (tsx). Maps the
+  // "server-only" guard to an empty stub so shared server modules load outside
+  // the Next.js build. `paths` is replaced wholesale by `extends`, so "@/*" is
+  // repeated here.
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"],
+      "server-only": ["./src/stubs/server-only.ts"]
+    }
+  }
+}

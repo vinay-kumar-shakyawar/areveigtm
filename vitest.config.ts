@@ -6,7 +6,7 @@ export default defineConfig({
     alias: {
       "@": path.resolve(__dirname, "src"),
       // Allow server modules that import "server-only" to run in tests.
-      "server-only": path.resolve(__dirname, "tests/stubs/server-only.ts"),
+      "server-only": path.resolve(__dirname, "src/stubs/server-only.ts"),
     },
   },
   test: {

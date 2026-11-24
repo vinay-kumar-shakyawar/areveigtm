@@ -33,4 +33,4 @@ FROM deps AS worker
 ENV NODE_ENV=production
 COPY . .
 RUN npx prisma generate
-CMD ["npx", "tsx", "src/worker/index.ts"]
+CMD ["npx", "tsx", "--tsconfig", "tsconfig.worker.json", "src/worker/index.ts"]
